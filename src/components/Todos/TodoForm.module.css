@@ -1,0 +1,35 @@
+.todoFormContainer {
+    margin-bottom: 10px;
+}
+
+.todoFormContainer form {
+    /* max-width:40%; */
+    color:burlywood;
+    /* margin: auto; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.todoFormContainer input {
+    max-width: 75%;
+    border-color: antiquewhite;
+    font-size: 20px;
+    padding: 5px 10px;
+    /* border: none; */
+    border-radius: 5px;
+}
+  
+/* form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  } */
+  
+  /* input {
+    width: 45%;
+    height: 30px;
+    font-size: 1.3rem;
+  } */
+  
